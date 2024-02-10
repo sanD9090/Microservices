@@ -1,0 +1,273 @@
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/appsettings.Development.json
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/appsettings.json
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/appsettings.Production.json
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/PlatformService
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/PlatformService.deps.json
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/PlatformService.runtimeconfig.json
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/PlatformService.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/PlatformService.pdb
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/AutoMapper.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Google.Protobuf.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Humanizer.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/MySql.Data.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/MySql.EntityFrameworkCore.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/System.CodeDom.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/ZstdSharp.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/kishan/Documents/Microservices/PlatformService/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/PlatformService.csproj.AssemblyReference.cache
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/PlatformService.GeneratedMSBuildEditorConfig.editorconfig
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/PlatformService.AssemblyInfoInputs.cache
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/PlatformService.AssemblyInfo.cs
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/PlatformService.csproj.CoreCompileInputs.cache
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/PlatformService.MvcApplicationPartsAssemblyInfo.cs
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/PlatformService.MvcApplicationPartsAssemblyInfo.cache
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/staticwebassets.build.json
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/staticwebassets.development.json
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/staticwebassets/msbuild.PlatformService.Microsoft.AspNetCore.StaticWebAssets.props
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/staticwebassets/msbuild.build.PlatformService.props
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PlatformService.props
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PlatformService.props
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/staticwebassets.pack.json
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/scopedcss/bundle/PlatformService.styles.css
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/PlatformService.csproj.CopyComplete
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/PlatformService.dll
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/refint/PlatformService.dll
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/PlatformService.pdb
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/PlatformService.genruntimeconfig.cache
+/home/kishan/Documents/Microservices/PlatformService/obj/Debug/net8.0/ref/PlatformService.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\appsettings.json
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\appsettings.Production.json
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\PlatformService.exe
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\PlatformService.deps.json
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\PlatformService.runtimeconfig.json
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\PlatformService.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\PlatformService.pdb
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\PlatformService.csproj.AssemblyReference.cache
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\PlatformService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\PlatformService.AssemblyInfoInputs.cache
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\PlatformService.AssemblyInfo.cs
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\PlatformService.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\PlatformService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\PlatformService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\staticwebassets\msbuild.PlatformService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\staticwebassets\msbuild.build.PlatformService.props
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PlatformService.props
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PlatformService.props
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\scopedcss\bundle\PlatformService.styles.css
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\PlatformService.csproj.CopyComplete
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\PlatformService.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\refint\PlatformService.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\PlatformService.pdb
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\PlatformService.genruntimeconfig.cache
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\obj\Debug\net8.0\ref\PlatformService.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Sandeep Pradhan\Documents\practice_space\Microservices\PlatformService\bin\Debug\net8.0\RabbitMQ.Client.dll
