@@ -16,7 +16,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddHttpClient<ICommandDataClient, HttpCommandDataClient>();
 builder.Services.AddScoped<IPlatformRepo, PlatformRepo>();
-builder.Services.AddSingleton<IMessagBusClient, IMessagBusClient>();
+builder.Services.AddSingleton<IMessageBusClient, MessageBusClient>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 

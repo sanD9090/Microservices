@@ -48,12 +48,6 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
-            "Microsoft.DotNet.ILCompiler": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.1, )",
-              "autoReferenced": true
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -67,12 +61,6 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[8.0.0, )"
-            },
-            "Microsoft.NET.ILLink.Tasks": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.1, )",
-              "autoReferenced": true
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -90,12 +78,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
-              "version": "[8.0.1, 8.0.1]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

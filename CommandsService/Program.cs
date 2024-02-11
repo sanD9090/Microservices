@@ -32,14 +32,8 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
-var lifetime = app.Services.GetRequiredService<IHostApplicationLifetime>();
-lifetime.ApplicationStarted.Register(() =>
-{
-    Console.WriteLine(Stopwatch.GetElapsedTime(startTime).TotalMilliseconds);
-    string rid = RuntimeInformation.RuntimeIdentifier;
-    Console.WriteLine($"Runtime Identifier (RID): {rid}");
-}
-);
+
+
 
 app.Run();
 

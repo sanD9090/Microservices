@@ -1,2 +1,10 @@
 
 *.vsidx
+*.vsidx
+*.vsidx
+*.v2
+*.bin
+*.dll
+.vs
+.bin
+.obj
