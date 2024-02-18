@@ -3,6 +3,7 @@ using System.Runtime.InteropServices;
 using CommandsService.AsyncDataServices;
 using CommandsService.Data;
 using CommandsService.EventProcessing;
+using CommandsService.SyncDataServices.Grpc;
 using Microsoft.EntityFrameworkCore;
 
 var startTime = Stopwatch.GetTimestamp();
@@ -17,6 +18,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDbContext>(opt => opt.UseInMemoryDatabase("InMemDb"));
 builder.Services.AddScoped<ICommandRepo, CommandRepo>();
+builder.Services.AddScoped<IPlatformDataClient, PlatformDataClient>();
 builder.Services.AddSingleton<IEventProcessor, EventProcessor>();
 
 var app = builder.Build();
@@ -37,6 +39,7 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+PrepDb.PrepPopulation(app);
 
 
 app.Run();
